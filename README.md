@@ -1,2 +1,2 @@
 # Haskell
-Estudo em haskell
+Learning Haskell
